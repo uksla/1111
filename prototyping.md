@@ -53,6 +53,7 @@ That's it. A primitive prototype is ready. To make it a bit more usable, we will
 
 To preview a prototype, select an artboard you want to start with and click ![Play button](public/playbtn.png) in the upper-right corner of the interface. The preview window will show up.
 
+
 <video autoplay="" muted="" loop="" playsinline="" width="100%" poster="/public/proto-procedureph.png" height="auto"><source src="/public/proto-procedure.mp4" type="video/mp4"></video>
 
 In a similar fashion you can link your artboards in the desired navigation sequence and preview your design in action.
